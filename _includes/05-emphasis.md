@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm good with _SQL_ and _VBA_.
+I'm learning *C#* and *Python* for fun!
